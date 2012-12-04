@@ -3,7 +3,7 @@ TicTacToe
 
 Scripting language:       Java  <br/>
 Framworks:                Android   <br/>
-development environment:  Eclipse  <br/>
+Development environment:  Eclipse  <br/>
 
 General description:
 For my first experience with Android I have a tic tac toe game made against the computer (AI). During the 
