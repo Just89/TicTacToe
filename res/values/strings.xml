@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">BoterKaasEieren!</string>
+    <string name="app_name">TicTacToe</string>
+    <string name="new_game">New Game</string>
+    <string name="settings_title">Settings</string>
+    <string name="music_title">Geluid</string>
+    <string name="music_summary">Geluid aan/uit zetten</string>
+    <string name="about_title">Help</string>
+    <string name="about_text"><![CDATA[
+    Most frequently asked questions:\n\n
+    Q:How do i win?\n
+    A:You need to make three in a row to win.
+    \n\n
+    Q:How to turn sound on/off?\n
+    A:Click menu - setings, use the checkbox to turn sound on/off.
+    \n\n 
+    This application is made by:\n
+    Justian Lutteke, 0806913, Hogeschool Rotterdam ]]></string>
+    <string name="exit_game">Exit</string>
+</resources>
