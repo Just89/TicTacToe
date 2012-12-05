@@ -2,7 +2,7 @@ TicTacToe
 =========
 
 Scripting language:       Java  <br/>
-Framworks:                Android   <br/>
+Runtime environment:      Android   <br/>
 Development environment:  Eclipse  <br/>
 
 General description: <br/>
